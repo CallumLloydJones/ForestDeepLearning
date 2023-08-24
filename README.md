@@ -31,6 +31,12 @@ There is no information about the use of predictions.
 - Convolutional Neural Networks
   
 ## Conclusions
+The numbers along the diagonal of the heatmap show how many were correctly classified. All other numbers on either side of the diagonal show misclassifications. 
+We see that Lodgepole Pine, Cottonwood Willow, Aspen, and Douglas-Fir suffer from a high percentage of mis-classifications. We see that Lodgepole Pine is commonly mistaken for Aspen.
+Further work could be done to investigate the possible causes.
+
+Overall the accuracy of the model is ~89%.
+
 
 ## Status and Details
 - **Project Status**: [Completed]
